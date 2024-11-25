@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/24a GUI-Login/24a GUI-Login.iml" filepath="$PROJECT_DIR$/24a GUI-Login/24a GUI-Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24b GradeListGUI-part1/24b GradeListGUI-part1.iml" filepath="$PROJECT_DIR$/24b GradeListGUI-part1/24b GradeListGUI-part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24c GradeListGUI-part2/24c GradeListGUI-part2.iml" filepath="$PROJECT_DIR$/24c GradeListGUI-part2/24c GradeListGUI-part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24d GradeListGUI-part3/24d GradeListGUI-part3.iml" filepath="$PROJECT_DIR$/24d GradeListGUI-part3/24d GradeListGUI-part3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25a login/25a login.iml" filepath="$PROJECT_DIR$/25a login/25a login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25b GradeList_3windows/25b GradeList_3windows.iml" filepath="$PROJECT_DIR$/25b GradeList_3windows/25b GradeList_3windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25c Login_2windows/25c Login_2windows.iml" filepath="$PROJECT_DIR$/25c Login_2windows/25c Login_2windows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRO1JavaFX.iml" filepath="$PROJECT_DIR$/PRO1JavaFX.iml" />
+    </modules>
+  </component>
+</project>
